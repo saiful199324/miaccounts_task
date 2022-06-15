@@ -17,11 +17,13 @@ Import DB file from DB folder name miaccounts_task.sql
 Finally open the project using following URL
 
 http://localhost/miaccounts_task/public/report/balance-sheet
+
 http://localhost/miaccounts_task/public/report/balance-sheet-detail
 
 OR
 
 http://localhost:8000/report/balance-sheet
+
 http://localhost:8000/report/balance-sheet-detail
 
 Thanks
