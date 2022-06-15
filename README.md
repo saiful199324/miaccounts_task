@@ -3,7 +3,7 @@ Getting Started
 clone the project
 git clone https://github.com/saiful199324/miaccounts_task.git
 
-install the dependencies
+
 cd miaccounts_task
 
 Generate application key
